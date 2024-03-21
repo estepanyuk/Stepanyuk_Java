@@ -47,7 +47,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/Stepanyuk_Java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.task_3">
     <configuration name="task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stepanyuk_Java.task_1" />
       <module name="Stepanyuk_Java" />
@@ -61,8 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stepanyuk_Java.task_3" />
+      <module name="Stepanyuk_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stepanyuk_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task_3" />
         <item itemvalue="Application.task_1" />
       </list>
     </recent_temporary>

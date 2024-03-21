@@ -6,9 +6,9 @@ public class task_3 {
 
         int[] number = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
-        for (int i = 0; i < number.length; i++) {
-            if ((number[i] % 2) == 0)
-                    System.out.println("Четное число: " + number[i]);
+        for (int i : number) {
+            if ((i % 2) == 0)
+                System.out.println("Четное число: " + i);
         }
     }
 }
